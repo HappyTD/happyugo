@@ -1,5 +1,7 @@
 # Compiled class file
 .idea/
+.classpath
+.project
 *.class
 target/
 *.tmp
@@ -11,6 +13,8 @@ dist/
 
 # Log file
 *.log
+*.lock
+*.iml
 
 # BlueJ files
 *.ctxt
